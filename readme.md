@@ -1,6 +1,6 @@
 # Flask App
 
-built during Bottega
+built during Bottega, first db
 
 Flask SQLAlchemy Documentation: http://flask-sqlalchemy.pocoo.org/2.3/
 
