@@ -84,7 +84,7 @@ def guide_delete(id):
     db.session.delete(guide)
     db.session.commit()
 
-    return guide_schema.jsonify(guide)
+    return f'You deleted guide with id {id}'
 
 
 if __name__ == '__main__':
